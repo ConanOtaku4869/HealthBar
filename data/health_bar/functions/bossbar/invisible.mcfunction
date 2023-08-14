@@ -1,0 +1,1 @@
+$bossbar set health_bar:player.$(id0).$(id1).$(id2).$(id3) visible false
